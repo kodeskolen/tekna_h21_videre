@@ -10,7 +10,6 @@ Hvis vi vil kjøre koden vår med Google Colab, så trenger vi endre noen småti
 
 ## Befolkningsvekst:
  * [DETALJERT - Befolkningsvekst](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Befolkningsvekst/DETALJERT%20-%20Befolkningsvekst.ipynb)
- * [DETALJERT - Befolkningsvekst](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Befolkningsvekst/DETALJERT%20-%20Befolkningsvekst.ipynb)
  * [LIVE KODE - Befolkningsvekst](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Befolkningsvekst/LIVE%20KODE%20-%20Befolkningsvekst.ipynb)
  * [OPPGAVER - Logistisk befolkningsvekst](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Befolkningsvekst/OPPGAVER%20-%20Logistisk%20befolkningsvekst.ipynb)
  * [BONUS - Befolkningsvekst med rovdyr og byttedyr](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Befolkningsvekst/BONUS%20-%20Befolkningsvekst%20med%20rovdyr%20og%20byttedyr.ipynb)
