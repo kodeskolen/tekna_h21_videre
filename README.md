@@ -9,7 +9,7 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 
 ### Bonusmateriale
 * En oppgavesamling med faglige relevante oppgaver er [her](bonus/faglig_relevante_oppgaver.pdf) (fasit er [her](bonus/faglig_relevante_oppgaver_fasit.pdf)).
-* Kompendie med mer info om populasjon-simuleringer er er [her](bonus/befolkningsvekst_kompendiet.pdf) (løsningsforslag for oppgavene i dette kompendiet er [her](bonus/befolkningsvekst_fasit.pdf))
+* Kompendie med mer info om populasjon-simuleringer er er [her](bonus/befolkningsvekst_kompendie.pdf) (løsningsforslag for oppgavene i dette kompendiet er [her](bonus/befolkningsvekst_fasit.pdf))
 * Kompendie med mer info om Monte Carlo estimering av π er [her](bonus/pi_estimering_kompendie.pdf)
 
 ## Kursets innhold:
