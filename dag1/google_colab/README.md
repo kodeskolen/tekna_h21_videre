@@ -16,5 +16,5 @@ Hvis vi vil kjøre koden vår med Google Colab, så trenger vi endre noen småti
 
 ## Pi estimering:
  * [DETALJERT - Estimere pi](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Pi/DETALJERT%20-%20Estimere%20pi.ipynb)
- * [LIVE KODE - Estimere pi](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Pi/LIVE%20KODE%20-%20Estimere%20pi.ipynb)
+ * [LIVE KODE - Estimere pi](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Pi/LIVE%20-%20Estimere%20pi.ipynb)
  * [BONUS - Visualisering av pi-estimering](https://colab.research.google.com/github/kodeskolen/tekna_h21_videre/blob/master/dag1/google_colab/Pi/BONUS%20-%20Visualisering%20av%20pi-estimering.ipynb)
