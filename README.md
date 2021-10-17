@@ -6,6 +6,7 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 ## Materiale
 ### Dag 1
 * Hvis du arbeider på Google Colab finner du notatbøkene vi arbeider med [her](dag1/google_colab)
+* Hvis du vil laste ned alle notatbøkene for dag 1 kan du gjøre det [her](dag1/materiale_dag1.zip)
 
 ### Bonusmateriale
 * En oppgavesamling med faglige relevante oppgaver er [her](bonus/faglig_relevante_oppgaver.pdf) (fasit er [her](bonus/faglig_relevante_oppgaver_fasit.pdf)).
