@@ -8,9 +8,9 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 * Hvis du arbeider på Google Colab finner du notatbøkene vi arbeider med [her](dag1/google_colab)
 
 ### Bonusmateriale
-* En oppgavesamling med faglige relevante oppgaver er [her](bonus/faglig_relevante_oppgaver.pdf) (fasit er [her](bonus/faglig_relevante_oppgaver)).
-* Kompendie med mer info om populasjon-simuleringer er er [her](dag1/befolkningsvekst/befolkningsvekstkompendiet.pdf) (løsningsforslag for oppgavene i dette kompendiet er [her](befolkningsvekst_fasit.pdf))
-* Kompendie med mer info om Monte Carlo estimering av π er [her](dag1/pi/pi_estimering_kompedie.pdf)
+* En oppgavesamling med faglige relevante oppgaver er [her](bonus/faglig_relevante_oppgaver.pdf) (fasit er [her](bonus/faglig_relevante_oppgaver_fasit.pdf)).
+* Kompendie med mer info om populasjon-simuleringer er er [her](bonus/befolkningsvekst_kompendie.pdf) (løsningsforslag for oppgavene i dette kompendiet er [her](bonus/befolkningsvekst_fasit.pdf))
+* Kompendie med mer info om Monte Carlo estimering av π er [her](bonus/pi_estimering_kompendie.pdf)
 
 ## Kursets innhold:
 Kurset vil passe for deg som deltok på vårt forrige kurs eller som har noe programmeringserfaring fra før. Vi ønsker at du skal få mer trening i å programmere, og få ideer til hvordan lage undervisningsopplegg som utforsker og løser problemstillinger innenfor realfagene.
