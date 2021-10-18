@@ -21,7 +21,7 @@ Kurset fokuserer på programmeringseksempler som er relevante for matematikk og 
 Kurset er en fortsettelse av et introduksjonskurs og antar at du er kjent med grunneleggende programmeringskonsepter (variabler, løkker, betingelser, funksjoner og plotting).
 En gjennomgang av disse konseptene finner du i [kompendiene fra introkurset til Python](introkurs/kompendier). Du kan og finne oppgavene fra dette kurset [her](introkurs/oppgaver).
 
-## Hva er `pylab`
+## Hva er `pylab`?
 Pylab er en pakke som inneholder kode fra [NumPy](https://numpy.org/) og [Matplotlib](https://matplotlib.org/). Det gjør det enkelt å laste inn fra de følgende pakkene:
 
  * `numpy`: https://numpy.org/doc/stable/reference/routines.html
