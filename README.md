@@ -8,6 +8,9 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 * Hvis du vil laste ned alle notatbøkene for dag 1 kan du gjøre det **[her](https://github.com/kodeskolen/tekna_h21_videre/raw/main/dag1/materiale_dag1.zip)**
 * Hvis du arbeider på Google Colab finner du notatbøkene vi arbeider med [her](dag1/google_colab)
 
+### Dag 2
+* Hvis du vil laste ned alle notatbøkene for dag 2 kan du gjøre det **[her](https://github.com/kodeskolen/tekna_h21_videre/raw/main/dag2/materiale_dag2.zip)**
+
 ### Bonusmateriale
 * En oppgavesamling med faglige relevante oppgaver er [her](bonus/faglig_relevante_oppgaver.pdf) (fasit er [her](bonus/faglig_relevante_oppgaver_fasit.pdf)).
 * Kompendie med mer info om populasjon-simuleringer er er [her](bonus/befolkningsvekst_kompendie.pdf) (løsningsforslag for oppgavene i dette kompendiet er [her](bonus/befolkningsvekst_fasit.pdf))
