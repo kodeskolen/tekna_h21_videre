@@ -11,7 +11,7 @@ Dette repositoriet er ment for deling av kursmateriale for nettkurs i programmer
 ### Dag 2
 * Hvis du vil laste ned alle notatbøkene for dag 2 kan du gjøre det **[her](https://github.com/kodeskolen/tekna_h21_videre/raw/main/dag2/materiale_dag2.zip)**
 * Hvis du arbeider på Google Colab finner du notatbøkene vi arbeider med [her](dag2/google_colab)
-* Presentasjonen om Stefan-Boltzmann loven og klimafysikk finer du [her](dag2/Klimafysikk og Stefan-Boltzmann loven.pdf) (som pdf-fil) og [her](dag2/Klimafysikk og Stefan-Boltzmann loven.pptx) (som pptx-fil).
+* Presentasjonen om Stefan-Boltzmann loven og klimafysikk finer du [her](dag2/Klimafysikk%20og%20Stefan-Boltzmann%20loven.pdf) (som pdf-fil) og [her](dag2/Klimafysikk%20og%20Stefan-Boltzmann%20loven.pptx) (som pptx-fil).
 * Presentasjonen om undervisning med notebooks finner du [her](dag2/Notebookundervisning.pdf).
 
 ### Bonusmateriale
